@@ -1,4 +1,4 @@
-package com.solvd.streams.Task12;
+package com.solvd.streams.task12;
 
 public class NumberPair {
      public int value_1;

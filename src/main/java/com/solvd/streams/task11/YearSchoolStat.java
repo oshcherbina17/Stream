@@ -1,4 +1,4 @@
-package com.solvd.streams.Task11;
+package com.solvd.streams.task11;
 
 public class YearSchoolStat {
     private int yearOfEntering;

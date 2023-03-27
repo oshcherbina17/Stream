@@ -1,4 +1,4 @@
-package com.solvd.streams.Task12;
+package com.solvd.streams.task12;
 
 import java.util.Arrays;
 import java.util.Comparator;
